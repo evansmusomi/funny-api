@@ -1,3 +1,5 @@
 # Environment
 venv/
 .cache/
+__pycache__/
+.pylintrc
